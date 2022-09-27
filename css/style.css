@@ -85,3 +85,11 @@ i {
 i:hover {
   background-color: rgba(255, 58, 74, 0.616);
 }
+
+.fa-google:hover {
+  background-color: rgba(58, 163, 255, 0.616);
+}
+
+.fa-yahoo:hover {
+  background-color: rgba(154, 79, 246, 0.616);
+}
